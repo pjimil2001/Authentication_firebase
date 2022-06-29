@@ -39,7 +39,7 @@ alt="Flutter Tutorial - Database Storage Using Sqlite & Sqflite YouTube video" w
 
 [<img align="center" alt="JohannesMilke | LinkedIn" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Flinkedin.png?alt=media" />](https://linkedin.com/in/JohannesMilke)&ensp;LinkedIn: [@JohannesMilke](https://linkedin.com/in/JohannesMilke "LinkedIn Johannes Milke")
 
-[<img align="center" alt="JohannesMilke | GitHub" width="28px" src="https://github.com/pjimil2001" />](https://github.com/pjimil2001)&ensp;GitHub: (https://github.com/pjimil2001 "GitHub jimil patel")
+[<img align="center" GitHub" width="28px" src="https://github.com/pjimil2001" />](https://github.com/pjimil2001)&ensp;GitHub: (https://github.com/pjimil2001 "GitHub jimil patel")
 
 
 [<img align="center" alt="JohannesMilke | Website" width="28px" src="https://firebasestorage.googleapis.com/v0/b/web-johannesmilke.appspot.com/o/other%2Fsocial%2Fwebsite.png?alt=media" />](https://johannesmilke.com)&ensp;Website: [@JohannesMilke](https://johannesmilke.com "Website Johannes Milke")
